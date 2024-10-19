@@ -1,6 +1,6 @@
 # Diwali Sales Analysis
 
-This project involves analyzing sales data from the Diwali season to extract key insights regarding customer behavior, product performance, and strategies for improving sales and inventory management.
+This project analyses sales data from the Diwali season to extract key insights regarding customer behaviour, product performance, and strategies for improving sales and inventory management.
 
 ## Project Overview
 
@@ -10,8 +10,8 @@ In this project, we have analyzed Diwali sales data using Python libraries such 
 
 - **Performed Data Cleaning and Manipulation**: The dataset was cleaned to remove inconsistencies and outliers, making it suitable for analysis.
 - **Performed Exploratory Data Analysis (EDA)**: Used `pandas`, `matplotlib`, and `seaborn` libraries for data visualization and statistical analysis to uncover key patterns and trends.
-- **Improved Customer Experience**: Identified potential customers across different states, occupations, gender, and age groups, helping to tailor marketing and product offerings accordingly.
-- **Improved Sales**: By identifying the best-selling product categories and products, the analysis helped optimize inventory planning and meet demand more effectively.
+- **Improved Customer Experience**: Identified potential customers across different states, occupations, genders, and age groups, helping to tailor marketing and product offerings accordingly.
+- **Improved Sales**: The analysis helped optimize inventory planning and meet demand more effectively by identifying the best-selling product categories and products.
 
 ## Technologies Used
 
