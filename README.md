@@ -27,8 +27,4 @@ In this project, we have analyzed Diwali sales data using Python libraries such 
 - **Sales Trends**: Identified high-performing products and customer groups that significantly contributed to sales during the Diwali season.
 - **Inventory Management**: Insights gained from the analysis will help optimize inventory planning for future Diwali sales periods.
 
-## How to Run the Project
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/diwali-sales-analysis.git
